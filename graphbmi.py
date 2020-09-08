@@ -31,3 +31,4 @@ plt.ylabel('BMI')
 plt.xticks(range(5884,5921,2))
 
 plt.bar(x,data)
+plt.show()
